@@ -1,235 +1,271 @@
 code_reg,lib_reg,date,count
-,Hauts-de-France,04/03/2020,65
-,Grand Est,04/03/2020,38
-,Ile-de-France,04/03/2020,55
-,Normandie,04/03/2020,2
-,Bretagne,04/03/2020,23
-,Pays de la Loire,04/03/2020,7
-,Centre-Val de Loire,04/03/2020,0
-,Bourgogne-Franche-Comté,04/03/2020,16
-,Nouvelle-Aquitaine,04/03/2020,5
-,Auvergne-Rhône-Alpes,04/03/2020,49
-,Corse,04/03/2020,0
-,Provence-Alpes-Côte d’Azur,04/03/2020,13
-,Occitanie,04/03/2020,9
-,Guadeloupe,04/03/2020,0
-,Martinique,04/03/2020,0
-,Guyane,04/03/2020,0
-,La Réunion,04/03/2020,0
-,Mayotte,04/03/2020,0
-,Hauts-de-France,05/03/2020,74
-,Grand Est,05/03/2020,77
-,Ile-de-France,05/03/2020,76
-,Normandie,05/03/2020,6
-,Bretagne,05/03/2020,29
-,Pays de la Loire,05/03/2020,8
-,Centre-Val de Loire,05/03/2020,2
-,Bourgogne-Franche-Comté,05/03/2020,39
-,Nouvelle-Aquitaine,05/03/2020,8
-,Auvergne-Rhône-Alpes,05/03/2020,64
-,Corse,05/03/2020,3
-,Provence-Alpes-Côte d’Azur,05/03/2020,18
-,Occitanie,05/03/2020,11
-,Guadeloupe,05/03/2020,0
-,Martinique,05/03/2020,0
-,Guyane,05/03/2020,5
-,La Réunion,05/03/2020,0
-,Mayotte,05/03/2020,0
-,Hauts-de-France,06/03/2020,97
-,Grand Est,06/03/2020,136
-,Ile-de-France,06/03/2020,89
-,Normandie,06/03/2020,11
-,Bretagne,06/03/2020,32
-,Pays de la Loire,06/03/2020,16
-,Centre-Val de Loire,06/03/2020,11
-,Bourgogne-Franche-Comté,06/03/2020,78
-,Nouvelle-Aquitaine,06/03/2020,11
-,Auvergne-Rhône-Alpes,06/03/2020,75
-,Corse,06/03/2020,3
-,Provence-Alpes-Côte d’Azur,06/03/2020,26
-,Occitanie,06/03/2020,18
-,Guadeloupe,06/03/2020,0
-,Martinique,06/03/2020,2
-,Guyane,06/03/2020,5
-,La Réunion,06/03/2020,0
-,Mayotte,06/03/2020,0
-,Hauts-de-France,07/03/2020,173
-,Grand Est,07/03/2020,250
-,Ile-de-France,07/03/2020,104
-,Normandie,07/03/2020,11
-,Bretagne,07/03/2020,40
-,Pays de la Loire,07/03/2020,18
-,Centre-Val de Loire,07/03/2020,16
-,Bourgogne-Franche-Comté,07/03/2020,129
-,Nouvelle-Aquitaine,07/03/2020,17
-,Auvergne-Rhône-Alpes,07/03/2020,102
-,Corse,07/03/2020,5
-,Provence-Alpes-Côte d’Azur,07/03/2020,38
-,Occitanie,07/03/2020,36
-,Guadeloupe,07/03/2020,0
-,Martinique,07/03/2020,2
-,Guyane,07/03/2020,5
-,La Réunion,07/03/2020,0
-,Mayotte,07/03/2020,0
-,Hauts-de-France,08/03/2020,NA
-,Grand Est,08/03/2020,NA
-,Ile-de-France,08/03/2020,NA
-,Normandie,08/03/2020,NA
-,Bretagne,08/03/2020,NA
-,Pays de la Loire,08/03/2020,NA
-,Centre-Val de Loire,08/03/2020,NA
-,Bourgogne-Franche-Comté,08/03/2020,NA
-,Nouvelle-Aquitaine,08/03/2020,NA
-,Auvergne-Rhône-Alpes,08/03/2020,NA
-,Corse,08/03/2020,NA
-,Provence-Alpes-Côte d’Azur,08/03/2020,NA
-,Occitanie,08/03/2020,NA
-,Guadeloupe,08/03/2020,NA
-,Martinique,08/03/2020,NA
-,Guyane,08/03/2020,NA
-,La Réunion,08/03/2020,NA
-,Mayotte,08/03/2020,NA
-,Hauts-de-France,09/03/2020,NA
-,Grand Est,09/03/2020,NA
-,Ile-de-France,09/03/2020,NA
-,Normandie,09/03/2020,NA
-,Bretagne,09/03/2020,NA
-,Pays de la Loire,09/03/2020,NA
-,Centre-Val de Loire,09/03/2020,NA
-,Bourgogne-Franche-Comté,09/03/2020,NA
-,Nouvelle-Aquitaine,09/03/2020,NA
-,Auvergne-Rhône-Alpes,09/03/2020,NA
-,Corse,09/03/2020,NA
-,Provence-Alpes-Côte d’Azur,09/03/2020,NA
-,Occitanie,09/03/2020,NA
-,Guadeloupe,09/03/2020,NA
-,Martinique,09/03/2020,NA
-,Guyane,09/03/2020,NA
-,La Réunion,09/03/2020,NA
-,Mayotte,09/03/2020,NA
-,Hauts-de-France,10/03/2020,209
-,Grand Est,10/03/2020,464
-,Ile-de-France,10/03/2020,334
-,Normandie,10/03/2020,37
-,Bretagne,10/03/2020,81
-,Pays de la Loire,10/03/2020,27
-,Centre-Val de Loire,10/03/2020,18
-,Bourgogne-Franche-Comté,10/03/2020,146
-,Nouvelle-Aquitaine,10/03/2020,54
-,Auvergne-Rhône-Alpes,10/03/2020,211
-,Corse,10/03/2020,42
-,Provence-Alpes-Côte d’Azur,10/03/2020,89
-,Occitanie,10/03/2020,61
-,Guadeloupe,10/03/2020,0
-,Martinique,10/03/2020,3
-,Guyane,10/03/2020,5
-,La Réunion,10/03/2020,0
-,Mayotte,10/03/2020,0
-,Hauts-de-France,11/03/2020,263
-,Grand Est,11/03/2020,578
-,Ile-de-France,11/03/2020,492
-,Normandie,11/03/2020,54
-,Bretagne,11/03/2020,94
-,Pays de la Loire,11/03/2020,34
-,Centre-Val de Loire,11/03/2020,20
-,Bourgogne-Franche-Comté,11/03/2020,155
-,Nouvelle-Aquitaine,11/03/2020,66
-,Auvergne-Rhône-Alpes,11/03/2020,264
-,Corse,11/03/2020,51
-,Provence-Alpes-Côte d’Azur,11/03/2020,111
-,Occitanie,11/03/2020,87
-,Guadeloupe,11/03/2020,0
-,Martinique,11/03/2020,3
-,Guyane,11/03/2020,5
-,La Réunion,11/03/2020,1
-,Mayotte,11/03/2020,0
-,Hauts-de-France,12/03/2020,349
-,Grand Est,12/03/2020,699
-,Ile-de-France,12/03/2020,577
-,Normandie,12/03/2020,68
-,Bretagne,12/03/2020,117
-,Pays de la Loire,12/03/2020,41
-,Centre-Val de Loire,12/03/2020,30
-,Bourgogne-Franche-Comté,12/03/2020,219
-,Nouvelle-Aquitaine,12/03/2020,87
-,Auvergne-Rhône-Alpes,12/03/2020,329
-,Corse,12/03/2020,64
-,Provence-Alpes-Côte d’Azur,12/03/2020,147
-,Occitanie,12/03/2020,133
-,Guadeloupe,12/03/2020,0
-,Martinique,12/03/2020,4
-,Guyane,12/03/2020,6
-,La Réunion,12/03/2020,3
-,Mayotte,12/03/2020,0
-,Hauts-de-France,13/03/2020,397
-,Grand Est,13/03/2020,911
-,Ile-de-France,13/03/2020,721
-,Normandie,13/03/2020,97
-,Bretagne,13/03/2020,155
-,Pays de la Loire,13/03/2020,55
-,Centre-Val de Loire,13/03/2020,33
-,Bourgogne-Franche-Comté,13/03/2020,272
-,Nouvelle-Aquitaine,13/03/2020,114
-,Auvergne-Rhône-Alpes,13/03/2020,416
-,Corse,13/03/2020,85
-,Provence-Alpes-Côte d’Azur,13/03/2020,212
-,Occitanie,13/03/2020,172
-,Guadeloupe,13/03/2020,1
-,Martinique,13/03/2020,6
-,Guyane,13/03/2020,6
-,La Réunion,13/03/2020,5
-,Mayotte,13/03/2020,0
-,Hauts-de-France,14/03/2020,466
-,Grand Est,14/03/2020,1085
-,Ile-de-France,14/03/2020,949
-,Normandie,14/03/2020,127
-,Bretagne,14/03/2020,182
-,Pays de la Loire,14/03/2020,82
-,Centre-Val de Loire,14/03/2020,54
-,Bourgogne-Franche-Comté,14/03/2020,339
-,Nouvelle-Aquitaine,14/03/2020,130
-,Auvergne-Rhône-Alpes,14/03/2020,454
-,Corse,14/03/2020,106
-,Provence-Alpes-Côte d’Azur,14/03/2020,281
-,Occitanie,14/03/2020,214
-,Guadeloupe,14/03/2020,3
-,Martinique,14/03/2020,10
-,Guyane,14/03/2020,7
-,La Réunion,14/03/2020,6
-,Mayotte,14/03/2020,1
-,Hauts-de-France,15/03/2020,507
-,Grand Est,15/03/2020,1378
-,Ile-de-France,15/03/2020,1209
-,Normandie,15/03/2020,143
-,Bretagne,15/03/2020,207
-,Pays de la Loire,15/03/2020,98
-,Centre-Val de Loire,15/03/2020,71
-,Bourgogne-Franche-Comté,15/03/2020,412
-,Nouvelle-Aquitaine,15/03/2020,144
-,Auvergne-Rhône-Alpes,15/03/2020,523
-,Corse,15/03/2020,115
-,Provence-Alpes-Côte d’Azur,15/03/2020,330
-,Occitanie,15/03/2020,243
-,Guadeloupe,15/03/2020,6
-,Martinique,15/03/2020,15
-,Guyane,15/03/2020,7
-,La Réunion,15/03/2020,9
-,Mayotte,15/03/2020,1
-,Hauts-de-France,16/03/2020,585
-,Grand Est,16/03/2020,1543
-,Ile-de-France,16/03/2020,1762
-,Normandie,16/03/2020,156
-,Bretagne,16/03/2020,233
-,Pays de la Loire,16/03/2020,108
-,Centre-Val de Loire,16/03/2020,90
-,Bourgogne-Franche-Comté,16/03/2020,507
-,Nouvelle-Aquitaine,16/03/2020,178
-,Auvergne-Rhône-Alpes,16/03/2020,618
-,Corse,16/03/2020,126
-,Provence-Alpes-Côte d’Azur,16/03/2020,405
-,Occitanie,16/03/2020,262
-,Guadeloupe,16/03/2020,18
-,Martinique,16/03/2020,16
-,Guyane,16/03/2020,11
-,La Réunion,16/03/2020,9
-,Mayotte,16/03/2020,1
+32,Hauts-de-France,04/03/2020,65
+44,Grand Est,04/03/2020,38
+11,Ile-de-France,04/03/2020,55
+28,Normandie,04/03/2020,2
+53,Bretagne,04/03/2020,23
+52,Pays de la Loire,04/03/2020,7
+24,Centre-Val de Loire,04/03/2020,0
+27,Bourgogne-Franche-Comté,04/03/2020,16
+75,Nouvelle-Aquitaine,04/03/2020,5
+84,Auvergne-Rhône-Alpes,04/03/2020,49
+94,Corse,04/03/2020,0
+93,Provence-Alpes-Côte d’Azur,04/03/2020,13
+76,Occitanie,04/03/2020,9
+971,Guadeloupe,04/03/2020,0
+972,Martinique,04/03/2020,0
+973,Guyane,04/03/2020,0
+974,La Réunion,04/03/2020,0
+976,Mayotte,04/03/2020,0
+32,Hauts-de-France,05/03/2020,74
+44,Grand Est,05/03/2020,77
+11,Ile-de-France,05/03/2020,76
+28,Normandie,05/03/2020,6
+53,Bretagne,05/03/2020,29
+52,Pays de la Loire,05/03/2020,8
+24,Centre-Val de Loire,05/03/2020,2
+27,Bourgogne-Franche-Comté,05/03/2020,39
+75,Nouvelle-Aquitaine,05/03/2020,8
+84,Auvergne-Rhône-Alpes,05/03/2020,64
+94,Corse,05/03/2020,3
+93,Provence-Alpes-Côte d’Azur,05/03/2020,18
+76,Occitanie,05/03/2020,11
+971,Guadeloupe,05/03/2020,0
+972,Martinique,05/03/2020,0
+973,Guyane,05/03/2020,5
+974,La Réunion,05/03/2020,0
+976,Mayotte,05/03/2020,0
+32,Hauts-de-France,06/03/2020,97
+44,Grand Est,06/03/2020,136
+11,Ile-de-France,06/03/2020,89
+28,Normandie,06/03/2020,11
+53,Bretagne,06/03/2020,32
+52,Pays de la Loire,06/03/2020,16
+24,Centre-Val de Loire,06/03/2020,11
+27,Bourgogne-Franche-Comté,06/03/2020,78
+75,Nouvelle-Aquitaine,06/03/2020,11
+84,Auvergne-Rhône-Alpes,06/03/2020,75
+94,Corse,06/03/2020,3
+93,Provence-Alpes-Côte d’Azur,06/03/2020,26
+76,Occitanie,06/03/2020,18
+971,Guadeloupe,06/03/2020,0
+972,Martinique,06/03/2020,2
+973,Guyane,06/03/2020,5
+974,La Réunion,06/03/2020,0
+976,Mayotte,06/03/2020,0
+32,Hauts-de-France,07/03/2020,173
+44,Grand Est,07/03/2020,250
+11,Ile-de-France,07/03/2020,104
+28,Normandie,07/03/2020,11
+53,Bretagne,07/03/2020,40
+52,Pays de la Loire,07/03/2020,18
+24,Centre-Val de Loire,07/03/2020,16
+27,Bourgogne-Franche-Comté,07/03/2020,129
+75,Nouvelle-Aquitaine,07/03/2020,17
+84,Auvergne-Rhône-Alpes,07/03/2020,102
+94,Corse,07/03/2020,5
+93,Provence-Alpes-Côte d’Azur,07/03/2020,38
+76,Occitanie,07/03/2020,36
+971,Guadeloupe,07/03/2020,0
+972,Martinique,07/03/2020,2
+973,Guyane,07/03/2020,5
+974,La Réunion,07/03/2020,0
+976,Mayotte,07/03/2020,0
+32,Hauts-de-France,08/03/2020,NA
+44,Grand Est,08/03/2020,NA
+11,Ile-de-France,08/03/2020,NA
+28,Normandie,08/03/2020,NA
+53,Bretagne,08/03/2020,NA
+52,Pays de la Loire,08/03/2020,NA
+24,Centre-Val de Loire,08/03/2020,NA
+27,Bourgogne-Franche-Comté,08/03/2020,NA
+75,Nouvelle-Aquitaine,08/03/2020,NA
+84,Auvergne-Rhône-Alpes,08/03/2020,NA
+94,Corse,08/03/2020,NA
+93,Provence-Alpes-Côte d’Azur,08/03/2020,NA
+76,Occitanie,08/03/2020,NA
+971,Guadeloupe,08/03/2020,NA
+972,Martinique,08/03/2020,NA
+973,Guyane,08/03/2020,NA
+974,La Réunion,08/03/2020,NA
+976,Mayotte,08/03/2020,NA
+32,Hauts-de-France,09/03/2020,NA
+44,Grand Est,09/03/2020,NA
+11,Ile-de-France,09/03/2020,NA
+28,Normandie,09/03/2020,NA
+53,Bretagne,09/03/2020,NA
+52,Pays de la Loire,09/03/2020,NA
+24,Centre-Val de Loire,09/03/2020,NA
+27,Bourgogne-Franche-Comté,09/03/2020,NA
+75,Nouvelle-Aquitaine,09/03/2020,NA
+84,Auvergne-Rhône-Alpes,09/03/2020,NA
+94,Corse,09/03/2020,NA
+93,Provence-Alpes-Côte d’Azur,09/03/2020,NA
+76,Occitanie,09/03/2020,NA
+971,Guadeloupe,09/03/2020,NA
+972,Martinique,09/03/2020,NA
+973,Guyane,09/03/2020,NA
+974,La Réunion,09/03/2020,NA
+976,Mayotte,09/03/2020,NA
+32,Hauts-de-France,10/03/2020,209
+44,Grand Est,10/03/2020,464
+11,Ile-de-France,10/03/2020,334
+28,Normandie,10/03/2020,37
+53,Bretagne,10/03/2020,81
+52,Pays de la Loire,10/03/2020,27
+24,Centre-Val de Loire,10/03/2020,18
+27,Bourgogne-Franche-Comté,10/03/2020,146
+75,Nouvelle-Aquitaine,10/03/2020,54
+84,Auvergne-Rhône-Alpes,10/03/2020,211
+94,Corse,10/03/2020,42
+93,Provence-Alpes-Côte d’Azur,10/03/2020,89
+76,Occitanie,10/03/2020,61
+971,Guadeloupe,10/03/2020,0
+972,Martinique,10/03/2020,3
+973,Guyane,10/03/2020,5
+974,La Réunion,10/03/2020,0
+976,Mayotte,10/03/2020,0
+32,Hauts-de-France,11/03/2020,263
+44,Grand Est,11/03/2020,578
+11,Ile-de-France,11/03/2020,492
+28,Normandie,11/03/2020,54
+53,Bretagne,11/03/2020,94
+52,Pays de la Loire,11/03/2020,34
+24,Centre-Val de Loire,11/03/2020,20
+27,Bourgogne-Franche-Comté,11/03/2020,155
+75,Nouvelle-Aquitaine,11/03/2020,66
+84,Auvergne-Rhône-Alpes,11/03/2020,264
+94,Corse,11/03/2020,51
+93,Provence-Alpes-Côte d’Azur,11/03/2020,111
+76,Occitanie,11/03/2020,87
+971,Guadeloupe,11/03/2020,0
+972,Martinique,11/03/2020,3
+973,Guyane,11/03/2020,5
+974,La Réunion,11/03/2020,1
+976,Mayotte,11/03/2020,0
+32,Hauts-de-France,12/03/2020,349
+44,Grand Est,12/03/2020,699
+11,Ile-de-France,12/03/2020,577
+28,Normandie,12/03/2020,68
+53,Bretagne,12/03/2020,117
+52,Pays de la Loire,12/03/2020,41
+24,Centre-Val de Loire,12/03/2020,30
+27,Bourgogne-Franche-Comté,12/03/2020,219
+75,Nouvelle-Aquitaine,12/03/2020,87
+84,Auvergne-Rhône-Alpes,12/03/2020,329
+94,Corse,12/03/2020,64
+93,Provence-Alpes-Côte d’Azur,12/03/2020,147
+76,Occitanie,12/03/2020,133
+971,Guadeloupe,12/03/2020,0
+972,Martinique,12/03/2020,4
+973,Guyane,12/03/2020,6
+974,La Réunion,12/03/2020,3
+976,Mayotte,12/03/2020,0
+32,Hauts-de-France,13/03/2020,397
+44,Grand Est,13/03/2020,911
+11,Ile-de-France,13/03/2020,721
+28,Normandie,13/03/2020,97
+53,Bretagne,13/03/2020,155
+52,Pays de la Loire,13/03/2020,55
+24,Centre-Val de Loire,13/03/2020,33
+27,Bourgogne-Franche-Comté,13/03/2020,272
+75,Nouvelle-Aquitaine,13/03/2020,114
+84,Auvergne-Rhône-Alpes,13/03/2020,416
+94,Corse,13/03/2020,85
+93,Provence-Alpes-Côte d’Azur,13/03/2020,212
+76,Occitanie,13/03/2020,172
+971,Guadeloupe,13/03/2020,1
+972,Martinique,13/03/2020,6
+973,Guyane,13/03/2020,6
+974,La Réunion,13/03/2020,5
+976,Mayotte,13/03/2020,0
+32,Hauts-de-France,14/03/2020,466
+44,Grand Est,14/03/2020,1085
+11,Ile-de-France,14/03/2020,949
+28,Normandie,14/03/2020,127
+53,Bretagne,14/03/2020,182
+52,Pays de la Loire,14/03/2020,82
+24,Centre-Val de Loire,14/03/2020,54
+27,Bourgogne-Franche-Comté,14/03/2020,339
+75,Nouvelle-Aquitaine,14/03/2020,130
+84,Auvergne-Rhône-Alpes,14/03/2020,454
+94,Corse,14/03/2020,106
+93,Provence-Alpes-Côte d’Azur,14/03/2020,281
+76,Occitanie,14/03/2020,214
+971,Guadeloupe,14/03/2020,3
+972,Martinique,14/03/2020,10
+973,Guyane,14/03/2020,7
+974,La Réunion,14/03/2020,6
+976,Mayotte,14/03/2020,1
+32,Hauts-de-France,15/03/2020,507
+44,Grand Est,15/03/2020,1378
+11,Ile-de-France,15/03/2020,1209
+28,Normandie,15/03/2020,143
+53,Bretagne,15/03/2020,207
+52,Pays de la Loire,15/03/2020,98
+24,Centre-Val de Loire,15/03/2020,71
+27,Bourgogne-Franche-Comté,15/03/2020,412
+75,Nouvelle-Aquitaine,15/03/2020,144
+84,Auvergne-Rhône-Alpes,15/03/2020,523
+94,Corse,15/03/2020,115
+93,Provence-Alpes-Côte d’Azur,15/03/2020,330
+76,Occitanie,15/03/2020,243
+971,Guadeloupe,15/03/2020,6
+972,Martinique,15/03/2020,15
+973,Guyane,15/03/2020,7
+974,La Réunion,15/03/2020,9
+976,Mayotte,15/03/2020,1
+32,Hauts-de-France,16/03/2020,585
+44,Grand Est,16/03/2020,1543
+11,Ile-de-France,16/03/2020,1762
+28,Normandie,16/03/2020,156
+53,Bretagne,16/03/2020,233
+52,Pays de la Loire,16/03/2020,108
+24,Centre-Val de Loire,16/03/2020,90
+27,Bourgogne-Franche-Comté,16/03/2020,507
+75,Nouvelle-Aquitaine,16/03/2020,178
+84,Auvergne-Rhône-Alpes,16/03/2020,618
+94,Corse,16/03/2020,126
+93,Provence-Alpes-Côte d’Azur,16/03/2020,405
+76,Occitanie,16/03/2020,262
+971,Guadeloupe,16/03/2020,18
+972,Martinique,16/03/2020,16
+973,Guyane,16/03/2020,11
+974,La Réunion,16/03/2020,9
+976,Mayotte,16/03/2020,1
+32,Hauts-de-France,17/03/2020,612
+44,Grand Est,17/03/2020,1820
+11,Ile-de-France,17/03/2020,2177
+28,Normandie,17/03/2020,174
+53,Bretagne,17/03/2020,247
+52,Pays de la Loire,17/03/2020,126
+24,Centre-Val de Loire,17/03/2020,103
+27,Bourgogne-Franche-Comté,17/03/2020,549
+75,Nouvelle-Aquitaine,17/03/2020,200
+84,Auvergne-Rhône-Alpes,17/03/2020,710
+94,Corse,17/03/2020,145
+93,Provence-Alpes-Côte d’Azur,17/03/2020,478
+76,Occitanie,17/03/2020,311
+971,Guadeloupe,17/03/2020,27
+972,Martinique,17/03/2020,19
+973,Guyane,17/03/2020,11
+974,La Réunion,17/03/2020,12
+976,Mayotte,17/03/2020,3
+32,Hauts-de-France,18/03/2020,665
+44,Grand Est,18/03/2020,2163
+11,Ile-de-France,18/03/2020,2693
+28,Normandie,18/03/2020,208
+53,Bretagne,18/03/2020,273
+52,Pays de la Loire,18/03/2020,128
+24,Centre-Val de Loire,18/03/2020,128
+27,Bourgogne-Franche-Comté,18/03/2020,593
+75,Nouvelle-Aquitaine,18/03/2020,237
+84,Auvergne-Rhône-Alpes,18/03/2020,858
+94,Corse,18/03/2020,152
+93,Provence-Alpes-Côte d’Azur,18/03/2020,574
+76,Occitanie,18/03/2020,371
+971,Guadeloupe,18/03/2020,33
+972,Martinique,18/03/2020,23
+973,Guyane,18/03/2020,11
+974,La Réunion,18/03/2020,14
+976,Mayotte,18/03/2020,3

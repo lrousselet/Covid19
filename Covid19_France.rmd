@@ -1,15 +1,15 @@
 ---
 title: "Propagation du Covid-19 en France"
 author: "Louis Rousselet"
-date: "16/03/2020"
+date: '`r Sys.Date()`'
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = F)
 ```
 
-```{r}
+```{r include=FALSE}
 library(ggplot2)
 library(plotly)
 
