@@ -1,0 +1,64 @@
+---
+title: "Propagation du Covid-19 en France"
+author: "Louis Rousselet"
+date: "16/03/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(ggplot2)
+library(plotly)
+
+dbf <- read.csv(file = "french_counts.csv", encoding = "UTF-8", stringsAsFactors = F)
+dbf <- dbf[!is.na(dbf$count),]
+dbf$date <- as.Date(dbf$date, format = "%d/%m/%Y")
+
+dbw <- read.csv("../CSSE_COVID19/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Confirmed.csv", 
+                stringsAsFactors = F)
+
+```
+
+
+
+## Nombre de cas par région en France
+
+
+
+```{r, echo=FALSE}
+keep <- unique(dbf$lib_reg[dbf$count >= 250])
+
+p_reg <- ggplot(data = dbf[dbf$lib_reg %in% keep,], aes(date, count, colour = lib_reg)) + geom_line() + 
+  ggtitle("Nombre de cas confirmés cumulés par région")
+
+ggplotly(p_reg)
+```
+
+## Nombre de cas par pays ayant un foyer
+
+```{r}
+names(dbw)[-(1:4)] <- gsub("\\.", "-", names(dbw)[-(1:4)])
+tdate <- data.frame("time" = 1:length(names(dbw)[-(1:4)]), 
+                    "date" = as.Date(gsub("X", "", names(dbw)[-(1:4)]), format = "%m-%e-%y"))
+names(dbw)[-(1:4)] <- paste0("x", 1:length(names(dbw)[-(1:4)]))
+
+dbw_long <- reshape(data = dbw, varying = names(dbw)[-(1:4)], v.names = "counts", idvar = names(dbw)[1:4], 
+                    split = list("regexp" = "x", "include" = T), timevar = "time", direction = "long")
+dbw_long <- merge(dbw_long, tdate)
+
+wkeep <- c("Italy", "France", "Iran", "Spain", "Korea, South", "Germany")
+wkeep2 <- c("", "France")
+sel <- dbw_long$Country.Region %in% wkeep & dbw_long$Province.State %in% wkeep2
+
+p_wld <- ggplot(data = dbw_long[sel,], aes(date, counts, colour = Country.Region)) + geom_line() + 
+  ggtitle("Nombre de cas cumulés par jour dans les principaux foyers")
+
+ggplotly(p_wld)
+```
+
+
+
+
